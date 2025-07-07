@@ -1,0 +1,6 @@
+{
+  "name": "Vakratund Attendance",
+  "description": "A mobile-first web application to manage member attendance, branded for Vakratund. It features a dashboard for weekly and daily summaries, a screen for one-click daily attendance marking, and detailed reports for each member with AI-powered performance remarks.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
