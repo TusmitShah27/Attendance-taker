@@ -17,7 +17,7 @@ const ICONS: Record<IconProps['type'], React.ReactNode> = {
     </svg>
   ),
   appLogo: (
-    <img src="Attendance-taker/assets/Logo.jpeg" alt="Vakratund Logo" className="w-full h-full object-cover"/>
+    <img src="https://drive.google.com/file/d/1yuf8E3vDie-oHkKtRMV7e8jMlpXz6ZZi/view?usp=drive_link" alt="Vakratund Logo" className="w-full h-full object-cover"/>
   ),
   addMemberIllustration: (
     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1} stroke="currentColor">
